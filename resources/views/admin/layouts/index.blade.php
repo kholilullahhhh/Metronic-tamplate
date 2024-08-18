@@ -43,6 +43,15 @@ License: For each use you must have a valid license purchased only from above li
     <link href="{{asset('demo1/dist/assets/plugins/global/plugins.bundle.css')}}" rel="stylesheet" type="text/css" />
     <link href="{{asset('demo1/dist/assets/css/style.bundle.css')}}" rel="stylesheet" type="text/css" />
     <!--end::Global Stylesheets Bundle-->
+    <!-- sticky navbar -->
+    <style>
+    .app-header {
+        position: sticky;
+        top: 0;
+        z-index: 1000; /* Ensure the navbar stays on top of other content */
+        background-color: #fff; /* Maintain the navbar background color */
+    }
+    </style>
 </head>
 
 <body id="kt_app_body" data-kt-app-layout="dark-sidebar" data-nakt-app-header-fixed="true"
