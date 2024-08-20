@@ -61,13 +61,6 @@
 												</a>
 												<!--end:Menu link-->
 											</div>
-											<!--end:Menu item-->
-											
-											<!--end:Menu item-->
-											
-											<!--end:Menu item-->
-											
-											<!--end:Menu item-->
 										</div>
 										<!--end:Menu sub-->
 									</div>
